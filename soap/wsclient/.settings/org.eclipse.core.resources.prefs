@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/main/com/trainings/ws/soap/CreditCardInfo.java=UTF-8
+encoding//src/main/com/trainings/ws/soap/PaymentProcessorRequest.java=UTF-8
+encoding//src/main/com/trainings/ws/soap/PaymentProcessorResponse.java=UTF-8
+encoding//src/main/com/trainings/ws/soap/PaymentProcessorSoapBindingStub.java=UTF-8
+encoding//src/main/com/trainings/ws/soap/PaymentProcessor_PortType.java=UTF-8
+encoding//src/main/com/trainings/ws/soap/PaymentProcessor_Service.java=UTF-8
+encoding//src/main/com/trainings/ws/soap/PaymentProcessor_ServiceLocator.java=UTF-8
